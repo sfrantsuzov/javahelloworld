@@ -1,4 +1,3 @@
-
 public class JavaHelloWorld
 {
 	public statis void main (String [] args)
